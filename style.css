@@ -1,0 +1,128 @@
+/*
+
+body{
+    background-color: white;
+}
+.TOP{
+    background-image: linear-gradient(to right,rgb(39, 39, 163),rgb(30, 30, 148),rgb(0, 0, 42));
+    
+    
+    
+}
+.HEADING{
+    padding-top: 50px;
+}
+
+ .container h1{
+     padding-top: 0px;
+     margin: 0px;
+     color: white;
+     font-weight:bold;
+    
+ }
+ .container{
+    margin-bottom: 50px;
+ }
+
+ 
+
+ .card{
+    box-shadow:1px 1px 10px rgb(10, 0, 41);
+    background-image: linear-gradient(to right,rgb(39, 39, 163),rgb(30, 30, 148),rgb(0, 0, 42));
+    padding: 4px;
+    border:none;
+    
+    
+    
+ }
+ .col a{
+    
+    text-decoration: none;
+    color: white;
+    
+
+ }
+ .LISTS{
+     margin: 3px;
+ }
+ .ICONES:hover{
+    width: 80px;
+   -webkit-transform: translate(2em,0);
+   -moz-transform: translate(2em,0);
+   -o-transform: translate(2em,0);
+   -ms-transform: translate(2em,0);
+   transform: translate(2em,0);
+   -webkit-transition: 1s ease-in;
+   -moz-transition: 1s ease-in;
+   -o-transition: 1s ease-in;
+   transition: 0.3s ease-in;
+}
+ 
+*/
+
+
+
+
+body{
+    background-color: #292d33;
+}
+.TOP{
+    background-color: #292d33;
+    
+    
+    
+}
+.HEADING{
+    padding-top: 50px;
+}
+
+ .container h2{
+     padding-top: 0px;
+     margin: 0px;
+     color: white;
+     font-weight:bold;
+    
+ }
+ .container{
+    margin-bottom: 50px;
+ }
+
+ 
+
+ .card{
+    
+    background:rgba(0, 0, 0, 0.698) linear-gradient( #555c66,#555c66);
+    
+    background-blend-mode:hard-light;
+    padding: 4px;
+    border:none;
+    border-radius: 16px !important;
+   
+    
+    
+    
+ }
+ .col a{
+    
+    text-decoration: none;
+    color: white;
+    
+
+ }
+ .LISTS{
+     margin: 3px;
+ }
+ .ICONES:hover{
+    width: 80px;
+   -webkit-transform: translate(2em,0);
+   -moz-transform: translate(2em,0);
+   -o-transform: translate(2em,0);
+   -ms-transform: translate(2em,0);
+   transform: translate(2em,0);
+   -webkit-transition: 1s ease-in;
+   -moz-transition: 1s ease-in;
+   -o-transition: 1s ease-in;
+   transition: 0.3s ease-in;
+}
+ 
+
