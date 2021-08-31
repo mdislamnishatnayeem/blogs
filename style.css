@@ -65,6 +65,7 @@ body{
 
 body{
     background-color: #292d33;
+    overflow-x: hidden;
 }
 .TOP{
     background-color: #292d33;
