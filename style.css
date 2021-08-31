@@ -127,11 +127,12 @@ body{
    transition: 0.3s ease-in;
 }
 
-.CONTAINER{
+ .CONTAINER{
    
    margin-left: 1%;
    margin-right: 1%;
-}
+   overflow-x: hidden;
+} 
 .CONTAINER  .col{
     max-height:300px;
     border: 1px solid rgba(180, 153, 153, 0.082);
