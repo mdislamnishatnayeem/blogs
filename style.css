@@ -146,7 +146,7 @@ body{
 }
 .texts{
     padding:2%;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 .CONTAINER  .col img{
     border-radius: 4%;
