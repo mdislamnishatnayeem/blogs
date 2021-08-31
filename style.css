@@ -107,12 +107,12 @@ body{
     
     text-decoration: none;
     color: white;
+
     
 
  }
- .LISTS{
-     margin: 3px;
- }
+ 
+ 
  .ICONES:hover{
     width: 80px;
    -webkit-transform: translate(2em,0);
@@ -125,5 +125,32 @@ body{
    -o-transition: 1s ease-in;
    transition: 0.3s ease-in;
 }
- 
+
+.CONTAINER{
+   
+   margin-left: 1%;
+   margin-right: 1%;
+}
+.CONTAINER  .col{
+    max-height:300px;
+    border: 1px solid rgba(180, 153, 153, 0.082);
+    margin-top: 2%;
+    margin-bottom: 8%;
+    overflow:hidden;
+    padding: 1%;
+    border-radius: 4%;
+    box-shadow:1px 1px 2px 1px #ffffff93;
+    background-color:#191b1f ;
+}
+.texts{
+    padding:2%;
+    color: white;
+}
+.CONTAINER  .col img{
+    border-radius: 4%;
+}
+.CONTAINER  .col:hover{
+    background-color:#2b313d ;
+}
+
 
