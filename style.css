@@ -135,7 +135,7 @@ body{
    overflow-x: hidden;
 } 
 .CONTAINER  .col{
-    max-height:300px;
+    height:200px;
     
     margin-top: 2%;
     margin-bottom: 8%;
@@ -176,7 +176,15 @@ body{
         
         
     }
+    .CONTAINER  .col{
+        height: 250px;
+    }
    
 }
 
+@media only screen and (min-width: 600px) {
+    .CONTAINER  .col{
+        height: 220px;
+    }
+}
 
