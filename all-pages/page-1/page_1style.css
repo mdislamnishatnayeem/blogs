@@ -17,7 +17,8 @@ body{
 }
 .writtings{
    height:auto;
-   background-color:#FFFF;
+   /* background-color:#FFFF; */
+   background-color: ;
     padding-top:20px;
     /* overflow-y: scroll; */
     color: black;
