@@ -135,13 +135,13 @@ body{
 } 
 .CONTAINER  .col{
     max-height:300px;
-    border: 1px solid rgba(180, 153, 153, 0.082);
+    
     margin-top: 2%;
     margin-bottom: 8%;
     overflow:hidden;
     padding: 1%;
     border-radius: 4%;
-    box-shadow:1px 1px 2px 1px #ffffff93;
+    box-shadow:1px 1px 2px 1px #00000088;
     background-color:#191b1f ;
 }
 .texts{
@@ -152,7 +152,8 @@ body{
     border-radius: 4%;
 }
 .CONTAINER  .col:hover{
-    background-color:#2b313d ;
+    background-color:#0f0f0f ;
+    
 }
 
 
