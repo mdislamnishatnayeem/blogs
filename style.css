@@ -177,14 +177,16 @@ body{
         
     }
     .CONTAINER  .col{
-        height: 230px;
+        height: 245px;
     }
    
 }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (max-width:300px) {
     .CONTAINER  .col{
-        height: 220px;
+        height: 200px;
     }
 }
+
+
 
