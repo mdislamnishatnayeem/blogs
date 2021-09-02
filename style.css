@@ -64,11 +64,12 @@ body{
 
 
 body{
-    background-color: #292d33;
+    background-color: rgb(240 242 245);
     overflow-x: hidden;
 }
 .TOP{
-    background-color: #292d33;
+     background-color: #292d33; 
+  
     
     
     
@@ -141,19 +142,27 @@ body{
     overflow:hidden;
     padding: 1%;
     border-radius: 4%;
-    box-shadow:1px 1px 2px 1px #00000088;
-    background-color:#191b1f ;
+    box-shadow:1px 1px 3px 1px #a0939388;
+    background-image: linear-gradient(white,rgba(182, 234, 255, 0.219));
 }
 .texts{
     padding:2%;
-    color: rgb(255, 255, 255);
+    color: rgba(7, 55, 160, 0.979);
+    
 }
 .CONTAINER  .col img{
     border-radius: 4%;
 }
 .CONTAINER  .col:hover{
-    background-color:#0f0f0f ;
+    background-color:white;
+    box-shadow:1px 1px 3px 1px #0206f873;
     
+}
+.hom-next-space{
+    margin-bottom: 4%;
+}
+.texts:hover{
+    color: black;
 }
 
 
