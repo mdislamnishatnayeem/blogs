@@ -143,11 +143,11 @@ body{
     padding: 1%;
     border-radius: 4%;
     box-shadow:1px 1px 3px 1px #a0939388;
-    background-image: linear-gradient(white,rgba(182, 234, 255, 0.219));
+    background:white;
 }
 .texts{
     padding:2%;
-    color: rgba(7, 55, 160, 0.979);
+    color:black;
     
 }
 .CONTAINER  .col img{
@@ -155,7 +155,7 @@ body{
 }
 .CONTAINER  .col:hover{
     background-color:white;
-    box-shadow:1px 1px 3px 1px #0206f873;
+    box-shadow:5px 5px 8px rgba(128, 128, 128, 0.561);
     
 }
 .hom-next-space{
@@ -169,15 +169,14 @@ body{
 
 @media screen and (max-width:600px){
     .CONTAINER  .col{
-        width: 70%;
-        margin-left:15% ;
-        margin-right:15% ;
-        box-shadow:2px 1px 3px 1px #a0939388;
+        width: 80%;
+        margin-left:10% ;
+        margin-right:10% ;
+        box-shadow:2px 3px 7px rgb(153, 150, 150);
+        
         
     }
-    .container{
-       position:relative;
-    }
+   
 }
 
 
