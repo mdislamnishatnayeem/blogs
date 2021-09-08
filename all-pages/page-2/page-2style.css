@@ -107,3 +107,34 @@ a{
      right:50%;
     opacity:2;
 }
+
+
+
+@media screen and (min-width: 770px) {
+        
+    .SOCIAL-MEDIAS{
+        
+
+        height: 700px;
+        
+        
+        position:sticky;
+        left: 0;
+        top:0;
+        overflow-y: scroll;
+        padding-top:80px;
+        margin-bottom: 0px;
+        
+    }
+    .NEXT-BACK{
+        height: 700px;
+        
+        
+        position:sticky;
+        left: 0;
+        top:0;
+        overflow-y: scroll;
+        padding-top:30px;
+        margin-bottom: 0px;
+    }
+}
